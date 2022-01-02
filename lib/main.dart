@@ -122,7 +122,7 @@ class Queen extends Piece {
 
   @override
   Widget build(BuildContext context) {
-    return Icons.emoji_;
+    return Container();
   }
 }
 
